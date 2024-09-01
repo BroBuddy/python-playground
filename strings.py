@@ -1,0 +1,15 @@
+name = input("Enter your full name: ")
+
+# result = help(str)
+# result = len(name)
+# result = name.find("a")
+# result = name.rfind("a")
+# result = name.capitalize()
+# result = name.upper()
+# result = name.lower()
+# dasdasdaresult = name.isdigit()
+# result = name.isalpha()
+# result = name.count(" ")
+result = name.replace("a", "z")
+
+print(f"Result: {result}")
